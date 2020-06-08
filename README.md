@@ -1,2 +1,2 @@
-# Projects
-Projects completed in my freshman year at college
+# College Assignments
+Assignments completed by me in CSE 205 
