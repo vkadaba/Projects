@@ -1,2 +1,2 @@
 # College Assignments
-Assignments completed by me in CSE 205 
+Assignments completed in the CS courses at Arizona State University.
